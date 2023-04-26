@@ -17,7 +17,7 @@
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Gene Chang</h1>
               <p>
                 Highschool student =:)
               </p>
@@ -26,4 +26,4 @@
           </article>
         </main>
 </body> 
-asd
+aswegoijp
