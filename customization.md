@@ -19,10 +19,11 @@
               <p class="detail">Coding Profile</p>
                 <h1>NAME</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Highschool student =:)
               </p>
               <a href="https://pages.github.com/" class="button"></a>
             </div>
           </article>
         </main>
 </body> 
+asd
