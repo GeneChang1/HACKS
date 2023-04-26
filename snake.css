@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   }
 body {
-  background: linear-gradient(white,#b8b8d1);
+  background: white;
   align-items: center;
   justify-content: center;
   height: 100%;
@@ -10,7 +10,7 @@ body {
   background-attachment: fixed;
 }
 canvas {
-  background: tan;
+  background: lightgray;
   text-align:center;
   padding-left: 0;
   padding-right: 0;
@@ -22,8 +22,8 @@ canvas {
   position: absolute;
 }
 :root {
-  --apple: blue;
-  --snake: purple;
+  --apple: red;
+  --snake: green;
 }
 #p1 {
   color:purple;
